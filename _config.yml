@@ -1,11 +1,12 @@
 # Site settings
-title:
-email:
+title: Antioch Baptist Church
+email: info@antiochbaptist.online
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://antiochbaptist.online" # the base hostname & protocol for your site
 
-twitter_username:
+# twitter_username:
+facebook_username: https://www.facebook.com/people/Antioch-Baptist-Church/100064530106496/
 github_username:
 
 # Build settings
