@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://antiochbaptist.online" # the base hostname & protocol for your site
 
 # twitter_username:
-facebook_username: https://www.facebook.com/people/Antioch-Baptist-Church/100064530106496/
+facebook_username: 100064530106496
 github_username:
 
 # Build settings
